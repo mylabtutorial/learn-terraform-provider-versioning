@@ -6,7 +6,7 @@ terraform {
   cloud {
     organization = "organization-name"
     workspaces {
-      name = "learn-terraform-provider-versioning"
+                                   name = "learn-terraform-provider-versioning"
     }
   }
                    8*/
